@@ -43,7 +43,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davialves08/davialves08/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davialves08/davialves08/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davialves08/davialves08/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davialves08/davialves08/output/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davialves08/davialves08/output/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/davialves08/davialves08/output/grid-snake.svg" />
 </picture>
