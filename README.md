@@ -1,7 +1,9 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Olá, eu sou o Davi!</h1>
-<h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davialves08&label=Profile%20views&color=0e75b6&style=flat" alt="davialves08" /> </p>
+ <p align="center">
+<a href="https://github.com/Shoaib19"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+Developer&center=true&width=500&height=50"></a>
+<p align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davialves08&label=Profile%20views&color=0e75b6&style=flat" alt="davialves08" /></p>
 
 <div style="display:flex">
 <img align="right" alt="coding_img" width="380" src="https://camo.githubusercontent.com/2feb3312f024729d55a24f034619e9d44caf32823a397bdadca4cd2216a27286/68747470733a2f2f74656e6f722e636f6d2f766965772f61676772657473756b6f2d746164616e6f2d6b6579626f6172642d636f64696e672d72657473756b6f2d6769662d31383835323537352e676966">
@@ -19,9 +21,11 @@
 </p>
 </div>
 
-##
 
-<h2 align="left">Linguagens e Framewors:</h2>
+
+
+<h2 align="left">Linguagens e Frameworks:</h2>
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
@@ -32,14 +36,15 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="80" height="80"/> </a>
 
-##
+
 
 <h2 align="center">GitHub Stats:</h2>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=davialves08&show_icons=true&locale=en" alt="davialves08" />
-                                                                                                                                                   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davialves08&show_icons=true&locale=en&layout=compact" alt="davialves08" />
+<img src="https://github-readme-stats.vercel.app/api?username=davialves08&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="davialves08" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davialves08&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="davialves08" />
+
+
 </div>
 
 <picture>
