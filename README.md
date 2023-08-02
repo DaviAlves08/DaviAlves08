@@ -41,5 +41,8 @@
                                                                                                                                                    
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davialves08&show_icons=true&locale=en&layout=compact" alt="davialves08" />
 </div>
+<div align="center">
 
 ![snake gif](https://github.com/davialves08/davialves08/blob/output/github-contribution-grid-snake.gif)
+</div>
+
