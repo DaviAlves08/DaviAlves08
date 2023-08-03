@@ -1,4 +1,4 @@
-name: main
+name: daily
 on:
   workflow_dispatch:
   pull_request:
