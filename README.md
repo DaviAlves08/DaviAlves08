@@ -23,9 +23,8 @@
 
 
 
-
-<h2 align="left">Linguagens e Frameworks:</h2>
-
+## Linguagens e Frameworks:
+<br>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
@@ -40,10 +39,13 @@
 
 <h2 align="center">GitHub Stats:</h2>
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=davialves08&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="davialves08" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davialves08&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="davialves08" />
-
+</div>
+<br><br/>
+<div align="center">
+ 
+## Veja meu gráfico de contribuição sendo comido por uma Cobra! 🐍
 
 </div>
 
@@ -52,3 +54,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davialves08/davialves08/output/grid-snake-light.svg" />
   <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/davialves08/davialves08/output/grid-snake.svg" />
 </picture>
+
+
+<div align="center">
+ 
+## Repositórios Abaixo: 🌟
+
+</div>
+
+![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
