@@ -8,7 +8,7 @@
 <div style="display:flex">
 <img align="right" alt="coding_img" width="380" src="https://camo.githubusercontent.com/2feb3312f024729d55a24f034619e9d44caf32823a397bdadca4cd2216a27286/68747470733a2f2f74656e6f722e636f6d2f766965772f61676772657473756b6f2d746164616e6f2d6b6579626f6172642d636f64696e672d72657473756b6f2d6769662d31383835323537352e676966">
   
-👨🏻‍💻 Sobre Mim
+👨🏻‍💻 Sobre Mim 
   
 - 🔭 Atualmente estou em busca de um estágio
 
