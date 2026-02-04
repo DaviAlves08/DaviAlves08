@@ -42,6 +42,10 @@ Aplicação simples desenvolvida em **React Native**, aplicando lógica de progr
 🔹 **APIs em PHP**  
 Desenvolvimento de APIs REST em **PHP**, incluindo uma API de calculadora e integração com a Digimon API.
 
+🔹 **Pizza Ruth**  
+Projeto acadêmico consistindo em um site de pizzaria inspirado no Pizza Hut. A aplicação simula o fluxo de pedidos, integrando **front-end desenvolvido em React com Tailwind CSS, Vite e JavaScript** a um **back-end em Node.js com Express.js**, aplicando conceitos de desenvolvimento web e lógica de programação.
+
+
 ➡️ Confira meus projetos nos repositórios abaixo ⬇️
 ---
 
